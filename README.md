@@ -22,14 +22,14 @@
 
 4.  <code>subtract</code>
 
-    - asdf
+    - <code>set()</code>를 통해 설정한 value 값에 값을 빼는 함수
 
 5.  <code>multiply</code>
 
-    - asdf
+    - <code>set()</code>를 통해 설정한 value 값에 값을 빼는 함수
 
 6.  <code>divide</code>
 
-    - asdfa
+    - <code>set()</code>를 통해 설정한 value 값에 값을 나누는 함수
 
 ---
